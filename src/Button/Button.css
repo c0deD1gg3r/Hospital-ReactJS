@@ -1,0 +1,17 @@
+.button {
+  border-radius: 30px;
+  border: 1px solid transparent;
+  padding:  15px 30px 15px;
+  font-family: 'DM Sans', sans-serif;
+  font-weight: 700;
+  background-color: #374551;
+  cursor: pointer;
+  color:blanchedalmond;
+}
+.button:hover {
+  background-color: lightseagreen;
+  transition: all 0.7s ease;
+}
+
+
+

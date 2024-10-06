@@ -1,0 +1,29 @@
+* {
+  outline: none;
+  box-sizing: border-box;
+}
+
+div {
+  display: block;
+  unicode-bidi: isolate;
+}
+
+header .all {
+  height: 76px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.all {
+  width: 100%;
+  max-width: 1260px;
+  margin: 0 auto;
+  padding: 0 40px;
+  box-sizing: border-box;
+  position: relative;
+}
+
+.center{
+  line-height: 0.9;
+}
+

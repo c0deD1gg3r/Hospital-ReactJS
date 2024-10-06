@@ -1,0 +1,14 @@
+.phone {
+  cursor: pointer;
+  font-size: 45px;
+  background-color: lightseagreen;
+  border-radius: 30px;
+  padding: 12px;
+  color: #374551;
+}
+
+.phone:hover {
+  background-color: #374551;
+  transition: all 0.7s ease;
+  color: white;
+}

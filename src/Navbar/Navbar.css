@@ -1,0 +1,37 @@
+.nav {
+	padding: 20px 0;
+	background-image: url('');
+	min-height: 695px;
+	background-repeat: no-repeat;
+	width: auto;
+	background-position: center center;
+}
+
+.Nav-Link {
+	text-decoration: none;
+}
+  
+.nav-row {
+  display: flex;
+	justify-content: space-around;
+	align-items: center;
+	column-gap: 30px;
+	row-gap: 20px;
+	flex-wrap: wrap;
+}
+
+.nav-list {
+	display: flex;
+	flex-wrap: wrap;
+	row-gap: 10px;
+	align-items: center;
+	column-gap: 40px;
+	font-size: 16px;
+	font-weight: 500;
+	font-family: 'Poppins', sans-serif;
+}
+
+
+ul, ul li {
+  list-style-type: none;
+}
